@@ -1,0 +1,2 @@
+# LUXE-Fashion-AI---Personalized-Fashion-Recommendation-Engine
+AI-powered personalized fashion recommendation system that analyzes customer preferences and generates intelligent product suggestions using machine learning and recommendation techniques. Built with Streamlit to provide an interactive fashion analytics dashboard with customer insights, recommendation ranking, and AI confidence scoring.
